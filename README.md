@@ -391,7 +391,7 @@ todo_app/
 
 ```bash
 # 1. Clone le projet
-git clone https://github.com/ton-pseudo/todo_app_clean.git
+git clone https://github.com/daniel10027/todo_app_clean.git
 cd todo_app_clean
 
 # 2. Crée un environnement virtuel
@@ -409,22 +409,33 @@ python manage.py runserver
 ```
 
 ---
+---
 
-## 🧠 Ce qui suit
+## 🙏 Remerciements
 
-Nous allons explorer chaque couche de l’application **pas à pas**, avec le **code complet** de chaque fichier :
+Ce projet complet autour de la Clean Architecture, de la Programmation Orientée Objet et des Design Patterns avec Django a été réalisé dans un but pédagogique et pratique, afin d’offrir une base solide pour tout développeur souhaitant structurer ses applications de manière professionnelle.
 
-1. Configuration Django (`settings.py`, `urls.py`)
-2. Modèles du domaine (`domain/models`)
-3. Cas d’usage (`use_cases`)
-4. Infrastructure (`repositories`, `services`)
-5. Interface (`views`, `forms`, `templates`)
-6. Authentification et gestion des utilisateurs
-7. CRUD des tâches
-8. Réinitialisation de mot de passe
-9. Tests unitaires
-10. Bonus : export PDF des tâches, dashboard statistiques (facultatif)
+Il a été conçu avec soin par :
+
+👤 **Jean Marie Daniel Vianney Guedegbe**  
+🎓 Master en Software Engineering & Big Data  
+💼 Senior Backend Python Developer
+🌍 Basé à Abidjan, Côte d’Ivoire  
+🛠️ Passionné par : Python, FastAPI, Django, Clean Code, Cloud, Architecture logicielle  
+🎯 Objectif : Bâtir des solutions robustes, évolutives et impactantes
+
+> « Le code propre n’est pas une option, c’est un engagement. »  
+> — Robert C. Martin & moi-même 😄
 
 ---
 
-**On commence par la configuration du projet dans la prochaine section !**
+### 🙌 Merci d’avoir suivi ce cours jusqu’au bout !
+
+Si ce projet t’a aidé ou inspiré, pense à :
+- ⭐ Étoiler le dépôt GitHub
+- 💬 Me laisser un retour ou une amélioration
+- 🤝 Me contacter pour collaborer à d’autres projets
+
+---
+
+> Que ton code soit propre, ton esprit structuré, et ta vision durable 🚀
